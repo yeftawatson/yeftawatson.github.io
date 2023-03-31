@@ -1,14 +1,14 @@
 {
-  "name": "Coba PWA",
-  "short_name": "Coba",
+  "name": "Portofolio",
+  "short_name": "Portofolio",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#2A3443",
-  "description": "Aplikasi mencoba",
+  "description": "Portofolio",
   "theme_color": "#2A3443",
   "icons": [
     {
-      "src": "./img/icon.png",
+      "src": "./images/icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
