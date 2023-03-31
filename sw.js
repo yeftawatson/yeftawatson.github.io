@@ -8,6 +8,10 @@ var URLS = [                            // Add URL you want to cache in this lis
   '/css/about.css',            // add path to those files here
   '/css/app.css',            // add path to those files here
   '/js/app.js',            // add path to those files here
+  '/blog.html', 
+  '/contact.html',  
+  '/portofolio-example01.html', 
+  '/styles.css.html',    
 ]
 
 // Respond with cached resources
