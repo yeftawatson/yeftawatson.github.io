@@ -9,6 +9,9 @@ var URLS = [                            // Add URL you want to cache in this lis
   '/portofolio-example01.html', 
   '/styles.css.html',    
   '/about.html',
+  '/css/app.css',
+  '/js/app.js',
+  '/images/icon.png',
 ]
 
 // Install the service worker and cache the files
